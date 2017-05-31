@@ -1,0 +1,6 @@
+/packages
+/Redis.Common/obj
+/Redis.Common/bin
+/Redis.Common.Test/obj
+/Redis.Common.Test/bin
+/.vs
